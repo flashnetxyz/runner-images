@@ -1,0 +1,6 @@
+.git/
+.dockerignore
+.editorconfig
+.gitignore
+tmp/
+.github/
